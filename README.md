@@ -10,11 +10,12 @@ This can help society as people will have the right information and will not bel
 Challenges we ran into
 The data was easy to access but it was in bits and peases. So, preparing the data took a lot of time.
 After passing it through a neural network, the accuracy was about 56% the 1st time. It even falls every time we tried to make it better. This was the hardest task for us in this project but finally, it has an accuracy of about 99%.
-### How it works:Today rumors can easily spread on the internet as people are exponentially increasing and with such low internet prices everyone is eager to go online. Our project can help in detecting the fake images and can tell if the image is original or doctored.
+#### Today rumors can easily spread on the internet as people are exponentially increasing and with such low internet prices everyone is eager to go online. Our project can help in detecting the fake images and can tell if the image is original or doctored.
 
 This can help society as people will have the right information and will not believe in doctored images.
 
-Challenges we ran into
+Challenges we ran into:
+
 The data was easy to access but it was in bits and peases. So, preparing the data took a lot of time.
 After passing it through a neural network, the accuracy was about 56% the 1st time. It even falls every time we tried to make it better. This was the hardest task for us in this project but finally, it has an accuracy of about 99%.
 We are using the dataset "Real and Fake Face Detection" which contains real/fake face photos, respectively.
